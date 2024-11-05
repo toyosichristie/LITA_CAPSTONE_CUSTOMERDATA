@@ -40,7 +40,7 @@
 - Create a Power BI dashboard that visualises the insights found in Excel and SQL.
 
  ### Data Analysis
-  Here the line of codes, functions, queries, DAX expressions used during the analysis  
+  Here the line of codes, functions, queries, pivot tables visualisation,DAX expressions used during the analysis  
 
 --- Pivot Tables Visualisation ---
 
@@ -52,6 +52,5 @@
 
 
 
-  
 
 ##### Metrics using Excel Formulas
