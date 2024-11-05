@@ -44,6 +44,13 @@
 
 --- Pivot Tables Visualisation ---
 
+![image](https://github.com/user-attachments/assets/cf29eefb-4c7d-4a2f-b72a-5172d82a86c2)
+![image](https://github.com/user-attachments/assets/2416bf78-44fd-4ab1-9ebc-a9992a9d1bfa)
+![image](https://github.com/user-attachments/assets/c9712e58-5284-4977-a0c3-579da513484d)
+![image](https://github.com/user-attachments/assets/e9ec9688-a70a-4927-963f-f851bb5c4afc)
+
+
+
 
   
 
