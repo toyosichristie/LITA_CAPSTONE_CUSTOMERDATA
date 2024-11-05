@@ -1,6 +1,6 @@
 # LITA_CAPSTONE_CUSTOMERDATA
 
-## Project Title- Sales Performance Analysis for a Retail Store
+## Project Title-Customer Segmentation for a Subscription Service
 ### Project Overview
   In this project, the task is to analyse customer data for a subscription service to identify segments and trends. To explore the dataset and understand customer behaviour, track subscription types and identify key trends in cancellations and renewals.
 
