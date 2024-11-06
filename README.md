@@ -54,3 +54,24 @@
 
 
 ##### Metrics using Excel Formulas
+
+
+
+
+##### SQL Queries to extract key insights
+
+![1customerdata](https://github.com/user-attachments/assets/41813c97-ca6a-409a-bfab-eedaac0f6878)
+
+![2customerdata](https://github.com/user-attachments/assets/aff8cf27-e5cf-4611-a9f0-a23f8bbc123a)
+
+![3customerdata](https://github.com/user-attachments/assets/f157f540-fd9f-42aa-bb04-71f55a992d5a)
+
+![4customerdata](https://github.com/user-attachments/assets/6159fba8-7101-4121-88c7-23c000598df0)
+
+![5customerdata](https://github.com/user-attachments/assets/f1ba7f93-6816-4ac5-840f-ade7eb82ca0b)
+
+![6customerdata](https://github.com/user-attachments/assets/5ed60219-268d-40a1-9fbb-51b16a33cffb)
+
+![7customerdata](https://github.com/user-attachments/assets/5a979c9c-9c0c-4f59-b8ff-b98e810942a3)
+
+![8customerdata](https://github.com/user-attachments/assets/950b5773-8173-4cea-9413-ee0658fb2a56)
