@@ -60,6 +60,66 @@
 
 ##### SQL Queries to extract key insights
 
+```SELECT Region, 
+COUNT(CustomerID) AS
+NumberOfCustomers
+FROM Customerdata
+GROUP BY Region
+```
+
+```SELECT TOP 1
+SubscriptionType,
+COUNT(CustomerID) AS
+CustomerCount
+FROM Customerdata
+GROUP BY SubscriptionType
+ORDER BY CustomerCount
+DESC;
+```
+
+```SELECT CustomerName
+FROM Customerdata
+WHERE Canceled = 1
+AND DATEDIFF (MONTH, SubscriptionStart, SubscriptionEnd) <= 6
+```
+
+```SELECT AVG(DATEDIFF(DAY,SubscriptionStart,
+SubscriptionEnd))
+AS AverageSubscriptionDuration
+FROM Customerdata
+```
+```SELECT CustomerName
+FROM Customerdata
+WHERE DATEDIFF(MONTH,
+SubscriptionStart, SubscriptionEnd) > 12;
+```
+
+```SELECT SubscriptionType,
+SUM(Revenue) AS
+TotalRevenue
+FROM Customerdata
+GROUP BY SubscriptionType
+```
+
+```SELECT Top 3 Region,
+COUNT (CustomerID) AS Cancellations
+FROM Customerdata
+WHERE Canceled = 1
+GROUP BY Region
+ORDER BY Cancellations
+DESC;
+```
+
+```SELECT 
+SUM(CASE WHEN
+Canceled = 0 THEN 1 ELSE 0 END)
+AS ActiveSubscriptions,
+SUM(CASE WHEN Canceled = 1 THEN 1 ELSE 0 END) AS
+CanceledSubsciptions FROM Customerdata
+```
+
+
+
 ![1customerdata](https://github.com/user-attachments/assets/41813c97-ca6a-409a-bfab-eedaac0f6878)
 
 ![2customerdata](https://github.com/user-attachments/assets/aff8cf27-e5cf-4611-a9f0-a23f8bbc123a)
