@@ -1,6 +1,27 @@
 # LITA_CAPSTONE_CUSTOMERDATA
 
 ## Project Title-Customer Segmentation for a Subscription Service
+
+### Table Content
+
+[Project Title](#project-title)
+
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#Tools-Used)
+
+[Data Cleaning and Preparation](#Data-Cleaning-and-Preparation)
+
+[Exploratory Data Analysis](#Exploratory-Data-Analysis)
+
+[Data Analysis](#Data-Analysis)
+
+[Data Visualization](#Data-Visualization)
+
+[Recommendation](#Recommendation)
+
 ### Project Overview
   In this project, the task is to analyse customer data for a subscription service to identify segments and trends. To explore the dataset and understand customer behaviour, track subscription types and identify key trends in cancellations and renewals.
 
